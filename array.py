@@ -1,8 +1,5 @@
 arr = []
 n = int(input("Enter number of elements (max 15): "))
-if n > 15:
-    print("Too many elements, set to 15")
-    n = 15
 print("Enter elements:")
 i = 0
 while i < n:
