@@ -1,6 +1,7 @@
 arr = []
 n = int(input("Enter number of elements (max 15): "))
 if n > 15:
+<<<<<<< HEAD
         print("Too many elements!")
         n = 15
 print("Enter elements:")
